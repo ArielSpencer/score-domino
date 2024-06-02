@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles/_reset.css">
+    <link rel="stylesheet" href="./styles/style.css">
+    <title>Dominó</title>
+</head>
+
+<body>
+    <main class="container">
+
+        <div class="placar"></div>
+        <h1>Score <span>Dominó</span></h1>
+        <div class="placar_equipes">
+            <section class="equipes">
+                    <p><b>Equipe 1</b></p>
+                    <p>Pontuação:</p>
+                    <p><span class="score_equipe1">0</span></p>
+                <button onclick="pontuarTime1()" type="button" class="button-score">+ 1</button>
+                <button onclick="removerPontoTime1()" type="button" class="button-score">- 1</button>
+            </section>
+            <section class="equipes">
+                <p><b>Equipe 2</b></p>
+                <p>Pontuação:</p>
+                <p><span class="score_equipe2">0</span></p>
+            <button onclick="pontuarTime2()" type="button" class="button-score">+ 1</button>
+            <button onclick="removerPontoTime2()" type="button" class="button-score">- 1</button>
+            </section>
+        </div>
+        <section>
+            <ul class="lista">
+                <li>Time 1: <span id="qtd-vitorias-equipe1">0</span> Partidas</li>
+                <li>Time 2: <span id="qtd-vitorias-equipe2">0</span> Partidas</li>
+            </ul>
+        </section>
+    </main>
+
+    <script src="js/app.js"></script>
+</body>
+
+</html>
