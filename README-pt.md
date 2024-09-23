@@ -32,11 +32,7 @@ Uma aplicação simples e interativa para pontuação no jogo de dominó, permit
 
 O **Score Dominó** é um aplicativo simples para calcular os pontos das partidas de dominó, desenvolvido para facilitar a contagem de pontos e substituir o uso de milhos e feijões. A ideia surgiu ao ver minha família jogando e utilizando objetos para contar os pontos, o que frequentemente causava confusão e reclamações. Decidi criar uma solução digital para tornar essa experiência mais prática e organizada.
 
-### Motivação
-
-Este projeto foi inspirado por uma visita à minha família, onde observei a dificuldade e confusão geradas ao contar pontos de dominó usando objetos como milhos e feijões.
-
-Motivado por essa experiência, criei uma solução digital para tornar a contagem de pontos mais organizada e eficiente. Aproveitando essa oportunidade para aplicar meus conhecimentos em JavaScript, HTML e CSS, enquanto estudo para me recolocar no mercado na área de front-end, resultando em uma ferramenta útil para minha família e outras pessoas que queiram se divertir sem usar blocos de anotação ou objetos para contagem de pontos.
+Aproveitando essa oportunidade para aplicar meus conhecimentos em JavaScript, HTML e CSS, enquanto estudo para me recolocar no mercado na área de front-end, resultando em uma ferramenta útil para minha família e outras pessoas que queiram se divertir sem usar blocos de anotação ou objetos para contagem de pontos.
 
 ## 👾 Tecnologias
 
