@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Ariel%20Spencer-Score%20Domino-%239377be) ![GitHub License](https://img.shields.io/github/license/arielspencer/score-domino) [![English Translation](https://img.shields.io/badge/Translate%20To-🇺🇸%20English-%23f5bb55)](README.md)
+![Static Badge](https://img.shields.io/badge/Ariel%20Spencer-Score%20Domino-%239377be) ![GitHub License](https://shields.io/github/license/arielspencer/score-domino) [![English Translation](https://img.shields.io/badge/Translate%20To-🇺🇸%20English-%23f5bb55)](README.md)
 
 <br/><br/>
 <p align="center">
